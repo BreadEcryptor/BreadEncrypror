@@ -1,4 +1,4 @@
 # BreadEncrypror
 Une Application Permettant de Obfusquer et créer des fichier .txtBC
 
-By The Bread Corp
+Crée par la BreadEncryptor une filiaire de la Bread Corp
